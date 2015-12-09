@@ -6,5 +6,5 @@ console.log 'TEST!'
 
 
 for i in [1..10]
-        debugger
-        console.log i
+  debugger
+  console.log i
